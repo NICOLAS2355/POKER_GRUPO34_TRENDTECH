@@ -31,7 +31,7 @@ Proceso de práctica: *Fundación Semillas del Barrio – Inscripción a tallere
 ![BPMN proceso actual](../assets/bpmn-actual.png)
 
 Archivo editable: [bpmn-actual.bpmn](../assets/bpmn-actual.bpmn)
-
+<br>
 ## 5. Puntos críticos
 
 | PC | Qué pasa (se demora, se repite o se pierde) | Evidencia (dato o frase del contacto, con fecha) |
