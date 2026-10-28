@@ -1,26 +1,45 @@
-Planeación proyecto <br>
-Roles <br>
-LP – Líder proyecto: alejandra7890 <br>
-AP – Analista de procesos: salo2216 <br>
-UX – Usuario y campaña: NICOLAS2355 <br>
-PR – Prototipo: sofiao <br>
-<br>
-Issues a cargo: <br>
-ROL    | Issues                                                        | Justificación                                                                 | <br>
-Líder  | #1 Identificación de la organización, #2 Planeación del proyecto, #12 Matriz de riesgos, #17 Uso de IA, #18 Pitch y sustentación | Coordina al equipo, define el alcance y el cronograma, anticipa riesgos y lidera la presentación final ante jurados | <br>
-AP     | #3 BPMN de práctica, #4 Proceso actual en BPMN, #8 Canvas del proyecto, #9 Solución y flujo de información | Modela y analiza el proceso actual de la organización y traduce los hallazgos en la propuesta de solución y su flujo de información | <br>
-UX     | #5 Plan de entrevista, #6 Mapa de empatía, #13 Campaña de lanzamiento, #15 Validación del prototipo | Investiga al usuario, identifica sus necesidades y dolores, diseña la campaña y valida la solución con usuarios reales | <br>
-PR     | #7 Hipótesis del prototipo, #10 Prototipo v0.1, #11 Prototipo v0.5, #14 Elementos FabLab, #16 Prototipo v1.0 | Construye y mejora el prototipo por versiones a partir de las hipótesis, la retroalimentación y los recursos del FabLab | <br>
-<br>
-Hitos <br>
-Semana # | Fecha límite | Resultado | <br>
-Semana 1 | 21/10/2026 | Organización identificada y tablero con Gantt | <br>
-Semana 2 | 25/10/2026 | BPMN del proceso actual, entrevista y mapa de empatía | <br>
-Semana 3 | 01/11/2026 | Canvas, solución y prototipo v0.1 | <br>
-Semana 4 | 08/11/2026 | Prototipo v0.5, riesgos y campaña | <br>
-Semana 5 | 12/11/2026 | Validación, FabLab, prototipo v1.0 y pre-sustentación | <br>
-Semana 6 | 13/11/2026 | Exposición ante jurados | <br>
-<br>
-Tablero y cronograma <br>
-![Tablero del proyecto](../assets/tablero.png) <br>
-![Diagrama de Gantt](../assets/gantt.png) <br>
+## 1. BPMN de práctica
+
+![BPMN de práctica](../assets/bpmn-taller.png)
+
+Proceso de práctica: *Fundación Semillas del Barrio – Inscripción a talleres (AS-IS)*.
+
+**Declaración de IA:**
+[herramienta y versión] – [dd/mm/aaaa] – prompt registrado en docs/11-uso-ia.md
+
+## 2. El proceso elegido
+
+**Nombre del proceso:** Práctica ambiental en el páramo (AS-IS)
+**Carriles (responsables):** Universidad, Administrador, Guía del páramo
+**Fuente (contacto, cargo y fecha):** Juan Núñez – [Coordinador] – [dd/mm/aaaa]
+
+## 3. Pasos del proceso
+
+| # | Paso (verbo + objeto) | Responsable |
+|---|---|---|
+| 1 | Solicitar la visita al páramo | Universidad |
+| 2 | Agendar la visita y asignar un guía | Coordinador |
+| 3 | Recibir al grupo e iniciar el recorrido | Guía del páramo |
+| 4 | Explicar verbalmente las características del ecosistema | Guía del páramo |
+| 5 | Tomar notas y fotos durante el recorrido | Universidad |
+| 6 | Elaborar el informe de la práctica | Universidad |
+
+**Decisión:** ¿Información completa? **Sí:** Elaborar el informe de la práctica. **No:** Buscar información en fuentes externas y luego elaborar el informe de la práctica.
+
+## 4. Diagrama BPMN
+
+![BPMN proceso actual](../assets/bpmn-actual.png)
+
+Archivo editable: [bpmn-actual.bpmn](../assets/bpmn-actual.bpmn)
+
+## 5. Puntos críticos
+
+| PC | Qué pasa (se demora, se repite o se pierde) | Evidencia (dato o frase del contacto, con fecha) |
+|---|---|---|
+| PC1 | **Se pierde:** la explicación del ecosistema es solo verbal; los estudiantes dependen de lo que alcanzan a anotar o fotografiar y parte de la información no queda registrada. | [frase o dato de Juan Núñez – dd/mm/aaaa] |
+| PC2 | **Se demora / se repite:** cuando la información recogida queda incompleta, la universidad debe buscar en fuentes externas antes de poder elaborar el informe, lo que retrasa el cierre de la práctica. | [frase o dato de Juan Núñez – dd/mm/aaaa] |
+
+## 6. Uso de IA
+
+| Herramienta y versión | Fecha | Prompt |
+|---|---|---|
