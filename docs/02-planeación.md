@@ -22,5 +22,5 @@ Semana 5 | 12/11/2026 | Validación, FabLab, prototipo v1.0 y pre-sustentación 
 Semana 6 | 13/11/2026 | Exposición ante jurados | <br>
 <br>
 Tablero y cronograma <br>
-![Tablero del proyecto](../Asaeta/diagrama roadmap.jpg) <br>
-![Diagrama de Gantt](../Asaeta/Diagrama de gant.jpg) <br>
+![Tablero del proyecto](../Asaeta/diagrama roadmap.JPG) <br>
+![Diagrama de Gantt](../Asaeta/Diagram de gant.JPG) <br>
