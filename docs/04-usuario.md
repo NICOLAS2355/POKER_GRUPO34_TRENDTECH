@@ -68,6 +68,6 @@ ni presenten su idea de prototipo.
   12. Algo donde esté toda la info del páramo con fotos reales, que yo le pueda mandar al cliente en un link.
   13. Seguimos lo que dice la CAR: grupos de máximo 20 personas, no salirse del sendero y nada de mascotas. Me gustaría que antes de subir hubiera una charla cortica para que la gente entienda por qué hay que cuidarlo.
   14. Me imagino que la gente pueda ver el páramo desde el celular antes de venir, y que nosotros sepamos qué es lo que más les interesa para vender mejor.
-- [Mapa de empatía](../Asaeta/mapa-empatia.png)
+- ![Mapa de empatía](../Asaeta/mapa-empatia.png)
 **Hallazgo principal:** lo que más le duele al usuario es ______________________
 porque __
