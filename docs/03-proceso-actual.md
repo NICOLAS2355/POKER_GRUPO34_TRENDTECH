@@ -1,6 +1,6 @@
 ## 1. BPMN de práctica
 
-![BPMN de práctica](../assets/BPMN%20practica%20.JPG)
+![BPMN de práctica](../asaeta/BPMN%20practica%20.JPG)
 
 Proceso de práctica: *Fundación Semillas del Barrio – Inscripción a talleres (AS-IS)*.
 
@@ -28,7 +28,7 @@ Proceso de práctica: *Fundación Semillas del Barrio – Inscripción a tallere
 
 ## 4. Diagrama BPMN
 
-![BPMN proceso actual](../assets/BPMN%20PROCESO%20ACTUAL.JPG)
+![BPMN proceso actual](../asaeta/BPMN%20PROCESO%20ACTUAL.JPG)
 
 Archivo editable: [bpmn-actual.bpmn](../assets/bpmn-actual.bpmn)
 <br>
