@@ -6,7 +6,7 @@ El guía utiliza la maqueta como apoyo visual y táctil para explicar el ecosist
 La información queda visible y organizada, en lugar de depender únicamente de una explicación verbal y de las notas o fotos del grupo.  
 Así se facilita el registro de la práctica y se reduce la necesidad de completar información con fuentes externas.
 Flujo de información
-![Flujo de información](../assets/flujo-informacion.png)
+![Flujo de información](../Asaeta/flujo-informacion.png)
 Paso	Entrada (qué información llega)	Proceso (qué se hace)	Responsable (quién)	Salida (qué información sale)
 1	Solicitud de visita y datos del grupo universitario.	Solicitar y coordinar la visita al páramo.	Universidad	Solicitud de visita recibida.
 2	Solicitud recibida, fecha de visita y disponibilidad del guía.	Agendar la visita y asignar un guía.	Coordinador / administrador	Visita agendada y guía asignado.
