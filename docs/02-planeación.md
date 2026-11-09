@@ -3,7 +3,7 @@ Roles <br>
 LP – Líder proyecto: alejandra7890 <br>
 AP – Analista de procesos: salo2216 <br>
 UX – Usuario y campaña: NICOLAS2355 <br>
-PR – Prototipo: sofiao <br>
+PR – Prototipo: sofiaovallepallares <br>
 <br>
 Issues a cargo: <br>
 ROL    | Issues                                                        | Justificación                                                                 | <br>
